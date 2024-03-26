@@ -1,18 +1,18 @@
 An-Najah National University
 Software Testing and Quality Assurance
 Software testing
-
+-------------------
 Team:                                                                                                                             
 Dana Abdelhaq
 
 Raghad Suwan
 
 Eman Othman  
-
+-------------------------
 Instructor Name:
 Zaina Saadeddin  
 
-
+----------------------------------------------------------------------
 Test Type: Manual
 
 
@@ -30,7 +30,8 @@ Pass Percentage:0%
 Fali Percentage:100%
 
 
- 
+---------------------------------------------------------------
+
 Test Type: Manual 
 
 
@@ -50,7 +51,7 @@ Fali Percentage:85.71%
 
 
 
-
+====================================================
 Test Type: Manual 
 
 
@@ -72,7 +73,7 @@ Comments: We did not add an empty search test case because the search is essenti
 The site status will remain as it is
 
 
-
+---------------------------------------------------------------------------------
 
 
 
