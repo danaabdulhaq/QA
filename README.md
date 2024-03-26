@@ -1,6 +1,5 @@
-An-Najah National University
+An-Najah National University/
 Software Testing and Quality Assurance
-Software testing
 -------------------
 Team:                                                                                                                             
 Dana Abdelhaq
@@ -8,6 +7,7 @@ Dana Abdelhaq
 Raghad Suwan
 
 Eman Othman  
+
 -------------------------
 Instructor Name:
 Zaina Saadeddin  
