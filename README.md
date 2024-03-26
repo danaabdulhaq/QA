@@ -15,6 +15,8 @@ Zaina Saadeddin
 
 Test Type: Manual
 
+
+
 Component: Filter
 
 The number of test case executed:5
@@ -31,6 +33,8 @@ Fali Percentage:100%
  
 Test Type: Manual 
 
+
+
 Component: Feedback
 
 The number of test case executed:7
@@ -45,7 +49,12 @@ Fali Percentage:85.71%
 
 
 
+
+
 Test Type: Manual 
+
+
+
 
 Component: Search
 
