@@ -51,7 +51,9 @@ Fali Percentage:85.71%
 
 
 
-====================================================
+----------------------------------------------
+
+
 Test Type: Manual 
 
 
@@ -95,6 +97,7 @@ Fali Percentage:66.67%
 using:
 Cypress ,next.js ,Mocha.
 
+------------------------------------------------------------------------
 Comments:
 We assumed that the search should be the same as what is written on the site,
 regardless of capital or small letters, and when I search for anything else nothing appears,
